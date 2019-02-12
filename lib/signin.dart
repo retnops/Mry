@@ -185,7 +185,7 @@ class _SigninState extends State<Signin> {
         ),
         Text(
           "or",
-          style: TextStyle(color: Color(0xFFFEE9E95)),
+          style: TextStyle(color: Colors.grey),
         ),
         FlatButton(
           child: Text(
