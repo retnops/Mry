@@ -72,7 +72,7 @@ class _FabPageState extends State<FabPage> with TickerProviderStateMixin {
         notchedShape: CircularNotchedRectangle(),
         onTabSelected: _selectedTab,
         items: [
-          FABBottomAppBarItem(iconData: Icons.menu, text: 'Mry'),
+          FABBottomAppBarItem(iconData: Icons.spa, text: 'Mry'),
           FABBottomAppBarItem(iconData: Icons.layers, text: 'Monbebe'),
           FABBottomAppBarItem(iconData: Icons.dashboard, text: 'Mine'),
           FABBottomAppBarItem(iconData: Icons.info, text: 'News'),

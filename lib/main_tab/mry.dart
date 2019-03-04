@@ -11,7 +11,7 @@ class _MryState extends State<Mry> {
   Widget build(BuildContext context) {
     return new MaterialApp(
       home: Scaffold(
-        appBar: AppBar(backgroundColor: Color(0xFFFEE9E95), title: const Text("Mry")),
+        appBar: AppBar(backgroundColor: Color(0xFFFEE9E95), title: const Text("Explore Mr. Y")),
         //backgroundColor: Colors.white,
         body: Container(
           child: new Container(

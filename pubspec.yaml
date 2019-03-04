@@ -46,6 +46,7 @@ flutter:
    - assets/mry_half.png
    - assets/facebook.png
    - assets/google.png
+   - assets/mxlogo.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
